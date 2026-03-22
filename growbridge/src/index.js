@@ -5,12 +5,13 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Header from './Components/Header';
 import Footer from './Components/footer';
+import Robot from './Components/homepage/robot';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <Header />
-    <App />
+    <Robot />
     <Footer />
   </React.StrictMode>
 );
