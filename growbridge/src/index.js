@@ -15,6 +15,15 @@ root.render(
   </React.StrictMode>
 );
 
+//git push code 
+//git add .
+//git commit -m "your message"
+//git push
+
+//git pull code
+//git pull origin main
+
+
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
