@@ -1,4 +1,5 @@
 import styles from './robot.module.css';
+ 
 
 function robot() {
   return (
@@ -17,7 +18,7 @@ function robot() {
       >
        WELCOME TO GROWBRIDGE
       </h1>
-
+    
     </div>
     
     </>
