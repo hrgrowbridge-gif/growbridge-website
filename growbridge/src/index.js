@@ -3,17 +3,10 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import Header from './Components/Header';
-import Footer from './Components/footer';
-import Robot from './Components/homepage/robot';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
-    <Header />
-    <Robot />
-    <Footer />
-  </React.StrictMode>
+  <App />
 );
 
 //git push code 
