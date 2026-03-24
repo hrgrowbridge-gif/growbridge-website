@@ -21,6 +21,9 @@ function robot() {
       </h1>
     
     </div>
+    <div className={styles.textContainer}>
+      <h2>Meet Nexbot, the AI-powered chatbot designed to revolutionize your customer support experience. With its advanced natural language processing capabilities, Nexbot can understand and respond to customer inquiries in real-time, providing accurate and helpful information. Whether it's answering frequently asked questions, assisting with product recommendations, or resolving issues, Nexbot is here to enhance your customer service and ensure a seamless experience for your users.</h2>
+    </div>
     <Footer/>
     </>
   )
